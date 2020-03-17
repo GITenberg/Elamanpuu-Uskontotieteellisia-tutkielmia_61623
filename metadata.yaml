@@ -1,5 +1,8 @@
 _repo: Elamanpuu-Uskontotieteellisia-tutkielmia_61623
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harva, Uno
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51292
     wikipedia: https://fi.wikipedia.org/wiki/Uno_Harva
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61623#Elamanpuu-Uskontotieteellisia-tutkielmia
 gutenberg_issued: '2020-03-15'
 gutenberg_type: Text
 identifiers:
